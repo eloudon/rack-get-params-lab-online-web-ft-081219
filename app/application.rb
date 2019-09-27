@@ -34,7 +34,7 @@ end
   end
 else
           resp.write "Path Not Found"
-  end	    end
+  end
 
 
-  resp.finish	    resp.finish
+ resp.finish
